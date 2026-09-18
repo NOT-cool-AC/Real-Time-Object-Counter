@@ -25,23 +25,6 @@ A lightweight, real-time computer vision application that captures a live webcam
 
 ---
 
-## 📸 Demo
-
-<!-- Replace with your own screenshot after running the app -->
-> 📷 Add a screenshot here: `docs/demo.png`
-
-```
-┌─────────────────────────────────────────────┐
-│  OBJECT COUNTER                             │
-│  FPS: 42.3                                  │
-│  ──────────────────────────                 │
-│    person              2                    │
-│    cell phone          1                    │
-└─────────────────────────────────────────────┘
-```
-
----
-
 ## 🗂️ Project Structure
 
 ```
